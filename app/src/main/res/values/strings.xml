@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">homework6month2</string>
+    <string name="do_next">Выполните вход </string>
+    <string name="register">или зарегистрируйтесь.</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="next">Вход</string>
+    <string name="email">Введите вашу почту</string>
+    <string name="password">Введите пароль</string>
+    <string name="voyti">Войти</string>
+    <string name="password1">Забыл пароль?</string>
+    <string name="click">Нажми сюда</string>
+</resources>
